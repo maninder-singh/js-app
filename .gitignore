@@ -1,0 +1,7 @@
+.idea/
+node_modules
+build/
+drivers/
+reports/
+*.log
+.DS_Store
