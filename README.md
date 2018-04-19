@@ -18,7 +18,7 @@ $ npm run dev
 
 * Create new directory drivers.  
 ```
-$ cd theia_ui
+$ cd js-app
 $ mkdir drivers
 
 ``` 
